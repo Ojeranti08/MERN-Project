@@ -1,4 +1,6 @@
 # MERN-Project
+MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
+
 MongoDB: A document-based, No-SQL database used to store application data in a form of documents.
 
 ExpressJS: A server side Web Application framework for Node.js.
